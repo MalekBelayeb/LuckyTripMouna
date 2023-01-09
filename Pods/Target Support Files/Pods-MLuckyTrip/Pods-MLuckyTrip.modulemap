@@ -1,0 +1,6 @@
+framework module Pods_MLuckyTrip {
+  umbrella header "Pods-MLuckyTrip-umbrella.h"
+
+  export *
+  module * { export * }
+}
